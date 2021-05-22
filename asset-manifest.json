@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-jira/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/my-jira/static/js/main.5a01c353.chunk.js",
-    "main.js.map": "/my-jira/static/js/main.5a01c353.chunk.js.map",
+    "main.js": "/my-jira/static/js/main.b9ca4ca5.chunk.js",
+    "main.js.map": "/my-jira/static/js/main.b9ca4ca5.chunk.js.map",
     "runtime-main.js": "/my-jira/static/js/runtime-main.fc253ff1.js",
     "runtime-main.js.map": "/my-jira/static/js/runtime-main.fc253ff1.js.map",
     "static/js/2.04aedcfb.chunk.js": "/my-jira/static/js/2.04aedcfb.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fc253ff1.js",
     "static/js/2.04aedcfb.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.5a01c353.chunk.js"
+    "static/js/main.b9ca4ca5.chunk.js"
   ]
 }

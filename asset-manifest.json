@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-jira/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/my-jira/static/js/main.5a01c353.chunk.js",
+    "main.js.map": "/my-jira/static/js/main.5a01c353.chunk.js.map",
+    "runtime-main.js": "/my-jira/static/js/runtime-main.fc253ff1.js",
+    "runtime-main.js.map": "/my-jira/static/js/runtime-main.fc253ff1.js.map",
+    "static/js/2.04aedcfb.chunk.js": "/my-jira/static/js/2.04aedcfb.chunk.js",
+    "static/js/2.04aedcfb.chunk.js.map": "/my-jira/static/js/2.04aedcfb.chunk.js.map",
+    "static/js/3.4f48a93b.chunk.js": "/my-jira/static/js/3.4f48a93b.chunk.js",
+    "static/js/3.4f48a93b.chunk.js.map": "/my-jira/static/js/3.4f48a93b.chunk.js.map",
+    "index.html": "/my-jira/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/my-jira/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.04aedcfb.chunk.js.LICENSE.txt": "/my-jira/static/js/2.04aedcfb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-jira/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc253ff1.js",
+    "static/js/2.04aedcfb.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5a01c353.chunk.js"
+  ]
+}
